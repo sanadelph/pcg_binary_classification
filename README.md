@@ -6,6 +6,6 @@ This work proposes a novel method for the task of classifying heart sounds into 
 # Required Packages
 The project is developed using Python 3 environment and following packages are used in the notebook provided:
 - Keras and Tensorflow
-- [DEAP (https://github.com/DEAP/deap)]
+- [DEAP] (https://github.com/DEAP/deap)
 - Numpy
 - Pandas
